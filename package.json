@@ -1,0 +1,17 @@
+{
+	"name": "nodejs-sandbox",
+	"version": "0.0.1",
+	"author": "dosisod <github.com/dosisod",
+	"description": "Sandbox for me to learn nodejs",
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.10"
+	},
+	"scripts": {
+		"start": "node ./app.js"
+	},
+	"dependencies": {
+		"express": "4.17.1",
+		"jade": "1.11.0"
+	}
+}
